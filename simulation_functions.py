@@ -1,4 +1,4 @@
-import am3lib
+import am3 as am3lib
 import numpy as np
 import physicsConsts as c
 
